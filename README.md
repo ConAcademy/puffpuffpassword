@@ -1,2 +1,2 @@
 # puffpuffpassword
-Biometrically secure password sharing
+Ephemeral secure password sharing
